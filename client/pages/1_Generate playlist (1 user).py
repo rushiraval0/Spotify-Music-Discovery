@@ -36,8 +36,8 @@ with open("count.txt", "r") as f:
     counter = f.readline()  # starts as a string
     counter = 0 if counter == "" else int(counter)
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="1d37db3bfcd64e5fb03414ca1316967a",
-                                               client_secret="1c39f52861b544afaf9785ac63cb2037",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="",
+                                               client_secret="",
                                                redirect_uri="http://localhost:8888/callback",
                                                scope="playlist-modify-public"))
 
