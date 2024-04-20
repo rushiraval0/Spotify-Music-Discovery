@@ -45,8 +45,8 @@ mock_data = {
                      'Artist 11', 'Artist 12', 'Artist 13', 'Artist 14', 'Artist 15', 'Artist 16', 'Artist 17', 'Artist 18', 'Artist 19', 'Artist 20']
 }
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="1d37db3bfcd64e5fb03414ca1316967a",
-                                               client_secret="1c39f52861b544afaf9785ac63cb2037",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="",
+                                               client_secret="",
                                                redirect_uri="http://localhost:8888/callback",
                                                scope="playlist-modify-public"))
 
