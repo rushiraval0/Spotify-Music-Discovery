@@ -7,14 +7,37 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### UI Screenshots
 
-#### 1. Dashboard
-<img src="client-design.png" alt="Dashboard" width="50%"> 
 
-#### 2. Feature 1 and 2
-<img src="feature1-output.png" alt="Feature 1" width="50%"> <img src="feature2-output.png" alt="Feature 2" width="50%"> 
+<div style="flex: 1;">
+  
+  <h4>1. Dashboard</h4>
+    <img src="client-design.png" alt="Dashboard" width="100%">
+</div>
 
-#### 3. Feature 3 and 4
-<img src="feature3-output.png" alt="Feature 3" width="50%"> <img src="feature4-output.png" alt="Feature 4" width="50%">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1;">
+    <h4>2. Feature 1</h4>
+    <img src="feature1-output.png" alt="Feature 1" width="100%">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <h4>3. Feature 2</h4>
+    <img src="feature2-output.png" alt="Feature 2" width="100%">
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  
+  <div style="flex: 1;">
+    <h4>4. Feature 3</h4>
+    <img src="feature3-output.png" alt="Feature 3" width="100%">
+  </div>
+  <div style="flex: 1;">
+    <h4>5. Feature 4</h4>
+  <img src="feature4-output.png" alt="Feature 4" width="50%">
+  </div>
+</div>
+
+
 
 ## Project Objectives:
 
