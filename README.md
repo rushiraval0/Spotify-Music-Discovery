@@ -7,35 +7,20 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### UI Screenshots
 
+#### 1. Dashboard
+<img src="client-design.png" alt="Dashboard" width="40%">
 
-<div style="flex: 1;">
-  
-  <h4>1. Dashboard</h4>
-    <img src="client-design.png" alt="Dashboard" width="100%">
-</div>
+#### 2. Feature 1
+<img src="feature1-output.png" alt="Feature 1" width="40%">
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>2. Feature 1</h4>
-    <img src="feature1-output.png" alt="Feature 1" width="100%">
-  </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>3. Feature 2</h4>
-    <img src="feature2-output.png" alt="Feature 2" width="100%">
-  </div>
-</div>
+#### 3. Feature 2
+<img src="feature2-output.png" alt="Feature 2" width="40%">
 
-<div style="display: flex; flex-wrap: wrap;">
-  
-  <div style="flex: 1;">
-    <h4>4. Feature 3</h4>
-    <img src="feature3-output.png" alt="Feature 3" width="100%">
-  </div>
-  <div style="flex: 1;">
-    <h4>5. Feature 4</h4>
-  <img src="feature4-output.png" alt="Feature 4" width="50%">
-  </div>
-</div>
+#### 4. Feature 3
+<img src="feature3-output.png" alt="Feature 3" width="40%">
+
+#### 5. Feature 4
+<img src="feature4-output.png" alt="Feature 4" width="40%">
 
 
 
@@ -58,9 +43,13 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 "Who gets the aux?" is the friendly decision-making process during road trips, where passengers take turns choosing the music played in the car. It's a way to ensure everyone gets to hear their favorite songs and enjoy the journey together. With our project, we aim to answer this age-old dilemma by providing Spotify users with playlists that are perfectly tailored to their tastes, ensuring that everyone gets their moment to shine behind the wheel.
 
 
-### ER Diagram and Use Case Diagram
+### ER Diagram
 
-<img src="ERD_Final.png" alt="ER Diagram" width="50%"> <img src="use-case.png" alt="Use Case" width="50%">
+<img src="ERD_Final.png" alt="ER Diagram" width="50%">
+
+### Use Case Diagram
+
+<img src="use-case.png" alt="Use Case" width="50%">
 
 
 ## Dataset:
