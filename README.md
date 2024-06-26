@@ -7,19 +7,14 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### UI Screenshots
 
-<table>
-  <tr>
-    <td><img src="client-design.png" alt="Dashboard" width="50%"></td>
-    <td><img src="feature1-output.png" alt="Feature 1" width="50%"></td>
-  </tr>
-  <tr>
-    <td><img src="feature2-output.png" alt="Feature 2" width="50%"></td>
-    <td><img src="feature3-output.png" alt="Feature 3" width="50%"></td>
-  </tr>
-  <tr>
-    <td><img src="feature4-output.png" alt="Feature 4" width="50%"></td>
-  </tr>
-</table>
+#### 1. Dashboard
+<img src="client-design.png" alt="Dashboard" width="50%"> 
+
+#### 2. Feature 1 and 2
+<img src="feature1-output.png" alt="Feature 1" width="50%"> <img src="feature2-output.png" alt="Feature 2" width="50%"> 
+
+#### 3. Feature 3 and 4
+<img src="feature3-output.png" alt="Feature 3" width="50%"> <img src="feature4-output.png" alt="Feature 4" width="50%">
 
 ## Project Objectives:
 
@@ -42,12 +37,8 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### ER Diagram and Use Case Diagram
 
-<table>
-  <tr>
-    <td><img src="ERD_Final.png" alt="ER Diagram" width="50%"></td>
-    <td><img src="use-case.png" alt="Use Case" width="50%"></td>
-  </tr>
-</table>
+<img src="ERD_Final.png" alt="ER Diagram" width="50%"> <img src="use-case.png" alt="Use Case" width="50%">
+
 
 ## Dataset:
 
