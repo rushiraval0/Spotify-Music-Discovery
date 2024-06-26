@@ -4,6 +4,24 @@ Spotify has revolutionized the way people listen to music by providing an immens
 
 In this project, we aim to analyze Spotify listening data obtained from Kaggle to design a relational schema and Entity-Relationship (ER) diagram. With the use of data mining techniques, including content-based filtering, we will explore patterns in users' listening behavior and develop algorithms for generating personalized playlists. Our ultimate goal is to provide Spotify users with an enhanced music discovery experience, ensuring that they always have the perfect playlist for any occasion.
 
+
+### UI Screenshots
+
+#### 1. Dashboard
+![Dashboard](client-design.png)
+
+#### 2. Feature 1
+![Feature 1](feature1-output.png)
+
+#### 3. Feature 2
+![Feature 2](feature2-output.png)
+
+#### 4. Feature 3
+![Feature 3](feature3-output.png)
+
+#### 5. Feature 4
+![Feature 4](feature4-output.png)
+
 ## Project Objectives:
 
 - Utilize the following dataset: [Spotify Music Dataset](https://www.kaggle.com/datasets/saurabhshahane/spotgen-music-dataset).
@@ -21,6 +39,15 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 ## Project Overview:
 
 "Who gets the aux?" is the friendly decision-making process during road trips, where passengers take turns choosing the music played in the car. It's a way to ensure everyone gets to hear their favorite songs and enjoy the journey together. With our project, we aim to answer this age-old dilemma by providing Spotify users with playlists that are perfectly tailored to their tastes, ensuring that everyone gets their moment to shine behind the wheel.
+
+
+### ER Diagram
+
+![ER Diagram](ERD-Final.png)
+
+### Use Case Diagram
+
+![Use Case](use-case.png)
 
 ## Dataset:
 
