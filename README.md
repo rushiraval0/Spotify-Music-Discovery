@@ -8,19 +8,19 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 ### UI Screenshots
 
 #### 1. Dashboard
-![Dashboard](client-design.png)
+<img src="client-design.png" alt="Dashboard" width="50%">
 
 #### 2. Feature 1
-![Feature 1](feature1-output.png)
+<img src="feature1-output.png" alt="Feature 1" width="50%">
 
 #### 3. Feature 2
-![Feature 2](feature2-output.png)
+<img src="feature2-output.png" alt="Feature 2" width="50%">
 
 #### 4. Feature 3
-![Feature 3](feature3-output.png)
+<img src="feature3-output.png" alt="Feature 3" width="50%">
 
 #### 5. Feature 4
-![Feature 4](feature4-output.png)
+<img src="feature4-output.png" alt="Feature 4" width="50%">
 
 ## Project Objectives:
 
@@ -43,11 +43,11 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### ER Diagram
 
-![ER Diagram](ERD-Final.png)
+<img src="ERD_Final.png" alt="ER Diagram" width="50%">
 
 ### Use Case Diagram
 
-![Use Case](use-case.png)
+<img src="use-case.png" alt="Use Case" width="50%">
 
 ## Dataset:
 
