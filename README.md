@@ -45,7 +45,7 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### ER Diagram
 
-<img src="ERD_Final.png" alt="ER Diagram" width="50%">
+<img src="ERD_Final.jpg" alt="ER Diagram" width="50%">
 
 ### Use Case Diagram
 
