@@ -7,20 +7,19 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 ### UI Screenshots
 
-#### 1. Dashboard
-<img src="client-design.png" alt="Dashboard" width="50%">
-
-#### 2. Feature 1
-<img src="feature1-output.png" alt="Feature 1" width="50%">
-
-#### 3. Feature 2
-<img src="feature2-output.png" alt="Feature 2" width="50%">
-
-#### 4. Feature 3
-<img src="feature3-output.png" alt="Feature 3" width="50%">
-
-#### 5. Feature 4
-<img src="feature4-output.png" alt="Feature 4" width="50%">
+<table>
+  <tr>
+    <td><img src="client-design.png" alt="Dashboard" width="50%"></td>
+    <td><img src="feature1-output.png" alt="Feature 1" width="50%"></td>
+  </tr>
+  <tr>
+    <td><img src="feature2-output.png" alt="Feature 2" width="50%"></td>
+    <td><img src="feature3-output.png" alt="Feature 3" width="50%"></td>
+  </tr>
+  <tr>
+    <td><img src="feature4-output.png" alt="Feature 4" width="50%"></td>
+  </tr>
+</table>
 
 ## Project Objectives:
 
@@ -41,13 +40,14 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 "Who gets the aux?" is the friendly decision-making process during road trips, where passengers take turns choosing the music played in the car. It's a way to ensure everyone gets to hear their favorite songs and enjoy the journey together. With our project, we aim to answer this age-old dilemma by providing Spotify users with playlists that are perfectly tailored to their tastes, ensuring that everyone gets their moment to shine behind the wheel.
 
 
-### ER Diagram
+### ER Diagram and Use Case Diagram
 
-<img src="ERD_Final.png" alt="ER Diagram" width="50%">
-
-### Use Case Diagram
-
-<img src="use-case.png" alt="Use Case" width="50%">
+<table>
+  <tr>
+    <td><img src="ERD_Final.png" alt="ER Diagram" width="50%"></td>
+    <td><img src="use-case.png" alt="Use Case" width="50%"></td>
+  </tr>
+</table>
 
 ## Dataset:
 
