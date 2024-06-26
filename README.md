@@ -10,19 +10,19 @@ In this project, we aim to analyze Spotify listening data obtained from Kaggle t
 
 <img src="screenshots/client-design.png" alt="Dashboard" width="40%">
 
-#### 2. Feature 1
+#### 2. Feature 1 (Generate Playlist - 1 User)
 
 <img src="screenshots/feature1-output.png" alt="Feature 1" width="40%">
 
-#### 3. Feature 2
+#### 3. Feature 2 (Generate Playlist - 2 User)
 
 <img src="screenshots/feature2-output.png" alt="Feature 2" width="40%">
 
-#### 4. Feature 3
+#### 4. Feature 3 (Get Recommendation - 1 User)
 
 <img src="screenshots/feature3-output.png" alt="Feature 3" width="40%">
 
-#### 5. Feature 4
+#### 5. Feature 4 (Who Gets the Aux - 3 User)
 
 <img src="screenshots/feature4-output.png" alt="Feature 4" width="40%">
 
