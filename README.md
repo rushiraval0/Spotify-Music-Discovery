@@ -1,6 +1,6 @@
 # Spotify Music Discovery - Who gets the AUX?
 
-<img src="spotify-music-discovery.jpeg" alt="thumbnail" width="40%">
+<img src="spotify-music-discovery.jpeg" alt="thumbnail" height="40%" width="100%">
 
 Spotify has revolutionized the way people listen to music by providing an immense collection of songs, personalized suggestions, and tailored playlists. With millions of users worldwide, Spotify collects a variety of information on listening habits, preferences, and trends. Understanding this data can provide vital insights into user behavior, paving the path for personalized playlist production based on individual preferences.
 
