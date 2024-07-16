@@ -1,5 +1,7 @@
 # Spotify Music Discovery - Who gets the AUX?
 
+<img src="spotify-music-discovery.jpeg" alt="thumbnail" width="40%">
+
 Spotify has revolutionized the way people listen to music by providing an immense collection of songs, personalized suggestions, and tailored playlists. With millions of users worldwide, Spotify collects a variety of information on listening habits, preferences, and trends. Understanding this data can provide vital insights into user behavior, paving the path for personalized playlist production based on individual preferences.
 
 In this project, we aim to analyze Spotify listening data obtained from Kaggle to design a relational schema and Entity-Relationship (ER) diagram. With the use of data mining techniques, including content-based filtering, we will explore patterns in users' listening behavior and develop algorithms for generating personalized playlists. Our ultimate goal is to provide Spotify users with an enhanced music discovery experience, ensuring that they always have the perfect playlist for any occasion.
